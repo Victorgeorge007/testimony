@@ -14,12 +14,13 @@
     padding: 10px 30px;
     /* background-color: hsl(210, 46%, 95%); */
     font-weight: 600;
+    width: 100%;
 }
 @media screen and (max-width:768px){
     .container{
         grid-template-columns: 1fr;
         gap: 0;
-        
+    
     }
     /* .left{
         grid-template-columns: 1fr;
