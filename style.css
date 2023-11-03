@@ -88,8 +88,8 @@
     border: 2px solid white;
 }
 .daniel h6{
-    color: hsl(210, 46%, 95%);
-    opacity: 50%;
+    color: hsla(0, 1%, 10%,);
+    opacity: 70%;
     font-size: 14px;
 }
 
